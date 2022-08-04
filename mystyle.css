@@ -1,0 +1,46 @@
+bigfont {
+  font-size: 25px;
+}
+body {
+  font-family: Ariel;
+}
+
+h1 {
+  color: #159;
+  font-size: 60px;
+  font-weight: 300;
+  line-height: 32px;
+  margin: 50px 0 72px;
+  text-align: center;
+}
+
+h2 {
+  color:DodgerBlue;
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 32px;
+  margin: 50px 0 72px;
+  text-align: center;
+}
+h4 {
+  color:DodgerBlue;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 32px;
+  margin: 50px 0 72px;
+  text-align: center;
+}
+img {
+	display: block;
+   border-width: 4px;
+     border-style: outset;
+     border-color: #002100;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+
+}
+
+p {
+	text-align: center;
+}
