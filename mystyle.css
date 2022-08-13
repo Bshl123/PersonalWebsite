@@ -12,6 +12,8 @@ h1 {
   line-height: 32px;
   margin: 50px 0 72px;
   text-align: center;
+  text-shadow: 2px 2px black;
+
 }
 
 h2 {
@@ -21,14 +23,7 @@ h2 {
   line-height: 32px;
   margin: 50px 0 72px;
   text-align: center;
-}
-h4 {
-  color:DodgerBlue;
-  font-size: 24px;
-  font-weight: 300;
-  line-height: 32px;
-  margin: 50px 0 72px;
-  text-align: center;
+  text-shadow: 2px 2px black;
 }
 img {
 	display: block;
